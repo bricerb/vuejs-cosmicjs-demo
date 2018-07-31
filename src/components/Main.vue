@@ -2,7 +2,10 @@
   <div class="hello">
     <h1>{{ title }}</h1>
     <h4>{{ text }}</h4>
+  
+   
   </div>
+
 </template>
 
 <script>
@@ -13,7 +16,7 @@ export default {
   data() {
     return {
       title: null,
-      text: null
+      text: null,
     }
   },
   beforeMount() {
