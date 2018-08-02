@@ -1,6 +1,6 @@
 # marvel
 
-[![Build Status](https://travis-ci.com/bricerb/vuejs-cosmicjs-demo.svg?branch=master)](https://travis-ci.com/bricerb/vuejs-cosmicjs-demo)
+[![Build Status](https://travis-ci.com/bricerb/vuejs-cosmicjs-demo.svg?branch=fix)](https://travis-ci.com/bricerb/vuejs-cosmicjs-demo)
 
 ## Project setup
 
